@@ -4,7 +4,7 @@
 1. списки стимульного материала (в форматах .doc, .docx или .xlsx);
 2. датасеты с ответами участников в формате .csv, экспортированные с платформы PCIbex Farm.
 
-This repository contains materials from fifteen linguistic experiments conducted by Tatyana Davidyuk as part of her PhD dissertation.
+This repository contains materials from fifteen linguistic experiments conducted by Tatiana Davidyuk as part of her PhD dissertation.
 
 Each of the 15 folders corresponds to a separate experiment and includes:
 1. stimulus lists (in .doc, .docx, or .xlsx formats);
